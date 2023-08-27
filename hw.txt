@@ -7,35 +7,35 @@ Python (Пройти первый пункт) (дедлайн 30 сентябр�
 
 Алгоритмы (Зарегаться):
 
-1)https://codeforces.com/
+1)https://codeforces.com/ (done)
 
-2)https://projecteuler.net/archives
+2)https://projecteuler.net/archives (done)
 
-3)https://leetcode.com/
+3)https://leetcode.com/ (done)
 
 Data Science (зарегаться):
-1) https://www.kaggle.com/
+1) https://www.kaggle.com/ (done)
 
 git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people   
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people  (done)
             
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI (done)
    
-2)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+2)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme (done)
 
-3)https://t.me/SenatorovBootcamp/3602/5714 (дедлайн 1 сентября)
+3)https://t.me/SenatorovBootcamp/3602/5714 (дедлайн 1 сентября) (введение выполнено)
 
 
 Алгоритмы:
 1)скачать
-https://t.me/ruslansenatorov/429
+https://t.me/ruslansenatorov/429 (done)
                                                                         
-дискретка (математика для прогеров):
+дискретка (математика для прогеров): (done)
 1)https://t.me/ruslansenatorov/43
 
 system design:
 скачать 
-https://library.samdu.uz/download/20642
+https://library.samdu.uz/download/20642 (done)
 
 Math:
 1) https://t.me/SenatorovBootcamp/888/4762 (дедлайн 14 сентября) Пройти весь марафон.
