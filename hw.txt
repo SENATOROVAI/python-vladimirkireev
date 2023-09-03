@@ -2,6 +2,7 @@
 
 Python (Пройти первый пункт) (дедлайн 30 сентября):
 
+
 1) https://t.me/SenatorovBootcamp/1/5243 
 
 
@@ -17,7 +18,7 @@ Data Science (зарегаться):
 1) https://www.kaggle.com/ (done)
 
 git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people  (done)
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people (done)
             
 2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI (done)
    
