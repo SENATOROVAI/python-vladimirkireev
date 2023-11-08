@@ -8,35 +8,35 @@ Python (Пройти первый пункт) (дедлайн 30 сентябр�
 
 Алгоритмы (Зарегаться):
 
-1)https://codeforces.com/ (done)
+1)https://codeforces.com/ done)
 
-2)https://projecteuler.net/archives (done)
+2)https://projecteuler.net/archives done)
 
-3)https://leetcode.com/ (done)
+3)https://leetcode.com/ done)
 
 Data Science (зарегаться):
-1) https://www.kaggle.com/ (done)
+1) https://www.kaggle.com/ done)
 
 git:
-1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people (done)
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/people done)
             
-2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI (done)
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI done)
    
-2)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme (done)
+2)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme done)
 
-3)https://t.me/SenatorovBootcamp/3602/5714 (дедлайн 1 сентября) (введение выполнено)
+3)https://t.me/SenatorovBootcamp/3602/5714 (дедлайн 1 сентября) введение выполнено)
 
 
 Алгоритмы:
 1)скачать
-https://t.me/ruslansenatorov/429 (done)
+https://t.me/ruslansenatorov/429 done)
                                                                         
-дискретка (математика для прогеров): (done)
+дискретка (математика для прогеров): done)
 1)https://t.me/ruslansenatorov/43
 
 system design:
 скачать 
-https://library.samdu.uz/download/20642 (done)
+https://library.samdu.uz/download/20642 done)
 
 Math:
 1) https://t.me/SenatorovBootcamp/888/4762 (дедлайн 14 сентября) Пройти весь марафон.
@@ -57,10 +57,10 @@ Math:
 План на день:
 1) https://stepik.org/course/172781/syllabus (30-60min)
 2) инди курс https://stepik.org/course/63085/promo 1ч
-3) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 1ч
-4) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc 1ч 
-5) 1 задача на литкод, выходные отдых (250 задач в год)
-6) https://lab.karpov.courses/learning/253/module/2697/ (секция линал) 1ч
+3) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 1ч 4/10 done)
+4) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc 1ч done)
+5) 1 задача на литкод, выходные отдых (250 задач в год) 18/250 done
+6) https://lab.karpov.courses/learning/253/module/2697/ (секция линал) 1ч)
 7) скачать https://t.me/SenatorovBootcamp/766/8001 и выписать в тетрадь 54-63 страницы, проникнуться идеей что код работает за разное время и нужно уметь оценивать это время. вести конспект ДО 102 стр
 
 Теория:
